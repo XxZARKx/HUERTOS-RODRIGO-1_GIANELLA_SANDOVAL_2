@@ -1,0 +1,106 @@
+[2024-05-15 21:54:50] [ WARN ] [BD:37] Unknown data type: "STRING"; SQL statement:
+CREATE TABLE ODONTOLOGOS (ID INT AUTO_INCREMENT PRIMARY KEY, NUMERO_MATRICULA INT NOT NULL, NOMBRE STRING VARCHAR(100) NOT NULL, APELLIDO STRING VARCHAR(100) NOT NULL)  [50004-224]
+[2024-05-15 21:54:50] [ INFO ] [PacienteDAOH2:50] iniciando la busqueda de un odontologo por id: 1
+[2024-05-15 21:54:50] [ WARN ] [PacienteDAOH2:63] Table "ODONTOLOGOS" not found; SQL statement:
+SELECT * FROM ODONTOLOGOS WHERE ID=? [42102-224]
+[2024-05-15 21:54:50] [ INFO ] [PacienteDAOH2:65] Odontologo encontrado correctamente
+[2024-05-15 21:54:50] [ INFO ] [PacienteDAOH2:81] iniciando la busqueda de todos los odontologos
+[2024-05-15 21:54:50] [ WARN ] [PacienteDAOH2:95] Table "ODONTOLOGOS" not found; SQL statement:
+SELECT * FROM ODONTOLOGOS [42102-224]
+[2024-05-15 21:54:50] [ INFO ] [PacienteDAOH2:97] La lista de odontologos se obtuvo correctamente: []
+[2024-05-15 21:55:38] [ INFO ] [BD:34] tabla creada con exito
+[2024-05-15 21:55:38] [ INFO ] [PacienteDAOH2:50] iniciando la busqueda de un odontologo por id: 1
+[2024-05-15 21:55:38] [ WARN ] [PacienteDAOH2:63] 
+[2024-05-15 21:55:38] [ INFO ] [PacienteDAOH2:65] Odontologo encontrado correctamente
+[2024-05-15 21:55:38] [ INFO ] [PacienteDAOH2:81] iniciando la busqueda de todos los odontologos
+[2024-05-15 21:55:38] [ INFO ] [PacienteDAOH2:97] La lista de odontologos se obtuvo correctamente: []
+[2024-05-15 21:58:56] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-15 21:58:56] [ INFO ] [PacienteDAOH2:50] iniciando la busqueda de un odontologo por id: 1
+[2024-05-15 21:58:56] [ WARN ] [PacienteDAOH2:63] 
+[2024-05-15 21:58:56] [ INFO ] [PacienteDAOH2:65] Odontologo encontrado correctamente
+[2024-05-15 21:58:56] [ INFO ] [PacienteDAOH2:81] iniciando la busqueda de todos los odontologos
+[2024-05-15 21:58:56] [ INFO ] [PacienteDAOH2:97] La lista de odontologos se obtuvo correctamente: [model.Odontologo@c03cf28, model.Odontologo@1329eff, model.Odontologo@6497b078]
+[2024-05-15 22:00:47] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-15 22:00:47] [ INFO ] [PacienteDAOH2:50] iniciando la busqueda de un odontologo por id: 1
+[2024-05-15 22:00:47] [ WARN ] [PacienteDAOH2:63] 
+[2024-05-15 22:00:47] [ INFO ] [PacienteDAOH2:65] Odontologo encontrado correctamente
+[2024-05-15 22:00:47] [ INFO ] [PacienteDAOH2:81] iniciando la busqueda de todos los odontologos
+[2024-05-15 22:00:47] [ INFO ] [PacienteDAOH2:97] La lista de odontologos se obtuvo correctamente: [model.Odontologo@c03cf28, model.Odontologo@1329eff, model.Odontologo@6497b078]
+[2024-05-15 22:04:09] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-15 22:04:09] [ INFO ] [PacienteDAOH2:50] iniciando la busqueda de un odontologo por id: 1
+[2024-05-15 22:04:09] [ WARN ] [PacienteDAOH2:63] 
+[2024-05-15 22:04:09] [ INFO ] [PacienteDAOH2:65] Odontologo encontrado correctamente
+[2024-05-15 22:04:09] [ INFO ] [PacienteDAOH2:81] iniciando la busqueda de todos los odontologos
+[2024-05-15 22:04:09] [ INFO ] [PacienteDAOH2:97] La lista de odontologos se obtuvo correctamente: [model.Odontologo@c03cf28, model.Odontologo@1329eff, model.Odontologo@6497b078]
+[2024-05-15 22:04:41] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-15 22:04:41] [ INFO ] [PacienteDAOH2:50] iniciando la busqueda de un odontologo por id: 1
+[2024-05-15 22:04:41] [ WARN ] [PacienteDAOH2:63] nullel odontologo no se pudo obtener con el id
+[2024-05-15 22:04:41] [ INFO ] [PacienteDAOH2:65] Odontologo encontrado correctamente
+[2024-05-15 22:04:41] [ INFO ] [PacienteDAOH2:81] iniciando la busqueda de todos los odontologos
+[2024-05-15 22:04:41] [ INFO ] [PacienteDAOH2:97] La lista de odontologos se obtuvo correctamente: [model.Odontologo@c03cf28, model.Odontologo@1329eff, model.Odontologo@6497b078]
+[2024-05-15 22:05:19] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-15 22:05:19] [ INFO ] [PacienteDAOH2:50] iniciando la busqueda de un odontologo por id: 1
+[2024-05-15 22:05:19] [ WARN ] [PacienteDAOH2:63] nullel odontologo no se pudo obtener con el id
+[2024-05-15 22:05:19] [ INFO ] [PacienteDAOH2:65] Odontologo encontrado correctamente
+[2024-05-15 22:08:26] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-15 22:08:26] [ INFO ] [PacienteDAOH2:49] iniciando la busqueda de un odontologo por id: 1
+[2024-05-15 22:08:26] [ WARN ] [PacienteDAOH2:62] nullel odontologo no se pudo obtener con el id
+[2024-05-15 22:08:26] [ INFO ] [PacienteDAOH2:64] Odontologo encontrado correctamente
+[2024-05-15 22:08:26] [ INFO ] [PacienteDAOH2:80] iniciando la busqueda de todos los odontologos
+[2024-05-15 22:08:26] [ INFO ] [PacienteDAOH2:96] La lista de odontologos se obtuvo correctamente: [model.Odontologo@c03cf28, model.Odontologo@1329eff, model.Odontologo@6497b078]
+[2024-05-15 22:11:43] [ WARN ] [BD:41] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:11:43] [ INFO ] [PacienteDAOH2:49] iniciando la busqueda de un odontologo por id: 1
+[2024-05-15 22:11:43] [ WARN ] [PacienteDAOH2:63] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]el odontologo no se pudo obtener con el id
+[2024-05-15 22:11:43] [ INFO ] [PacienteDAOH2:65] Odontologo encontrado correctamente
+[2024-05-15 22:11:43] [ INFO ] [PacienteDAOH2:81] iniciando la busqueda de todos los odontologos
+[2024-05-15 22:11:43] [ WARN ] [PacienteDAOH2:95] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:11:43] [ INFO ] [PacienteDAOH2:97] La lista de odontologos se obtuvo correctamente: []
+[2024-05-15 22:11:52] [ WARN ] [BD:41] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:11:52] [ INFO ] [PacienteDAOH2:49] iniciando la busqueda de un odontologo por id: 1
+[2024-05-15 22:11:52] [ WARN ] [PacienteDAOH2:63] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]el odontologo no se pudo obtener con el id
+[2024-05-15 22:11:52] [ INFO ] [PacienteDAOH2:65] Odontologo encontrado correctamente
+[2024-05-15 22:17:08] [ WARN ] [BD:41] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:17:08] [ INFO ] [PacienteDAOH2:49] iniciando la busqueda de un odontologo por id: 1
+[2024-05-15 22:17:08] [ WARN ] [PacienteDAOH2:63] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]el odontologo no se pudo obtener con el id
+[2024-05-15 22:17:08] [ INFO ] [PacienteDAOH2:65] Odontologo encontrado correctamente
+[2024-05-15 22:18:03] [ WARN ] [BD:41] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:18:03] [ INFO ] [PacienteDAOH2:49] Iniciando la búsqueda de un odontólogo por id: 1
+[2024-05-15 22:18:03] [ WARN ] [PacienteDAOH2:65] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224] El odontólogo no se pudo obtener con el id: 1
+[2024-05-15 22:18:03] [ INFO ] [PacienteDAOH2:69] Odontólogo encontrado correctamente: null
+[2024-05-15 22:24:58] [ WARN ] [BD:41] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:24:58] [ INFO ] [PacienteDAOH2:49] Iniciando la búsqueda de un odontólogo por id: 2
+[2024-05-15 22:24:58] [ WARN ] [PacienteDAOH2:65] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224] El odontólogo no se pudo obtener con el id: 2
+[2024-05-15 22:24:58] [ INFO ] [PacienteDAOH2:69] Odontólogo encontrado correctamente: null
+[2024-05-15 22:26:18] [ WARN ] [BD:41] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:26:18] [ INFO ] [PacienteDAOH2:49] Iniciando la búsqueda de un odontólogo por id: 2
+[2024-05-15 22:26:18] [ WARN ] [PacienteDAOH2:64] Database may be already in use: "C:/Users/rodri/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224] El odontólogo no se pudo obtener con el id: 2
+[2024-05-15 22:26:18] [ INFO ] [PacienteDAOH2:68] Odontólogo encontrado correctamente: 
+[2024-05-15 22:26:45] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-15 22:26:45] [ INFO ] [PacienteDAOH2:49] Iniciando la búsqueda de un odontólogo por id: 2
+[2024-05-15 22:26:45] [ INFO ] [PacienteDAOH2:61] Odontólogo obtenido con éxito
+[2024-05-15 22:26:45] [ INFO ] [PacienteDAOH2:68] Odontólogo encontrado correctamente: 
+[2024-05-15 22:27:02] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-15 22:27:02] [ INFO ] [PacienteDAOH2:49] Iniciando la búsqueda de un odontólogo por id: 1
+[2024-05-15 22:27:02] [ INFO ] [PacienteDAOH2:61] Odontólogo obtenido con éxito
+[2024-05-15 22:27:02] [ INFO ] [PacienteDAOH2:68] Odontólogo encontrado correctamente: 
+[2024-05-15 22:28:20] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-15 22:28:20] [ INFO ] [PacienteDAOH2:49] Iniciando la búsqueda de un odontólogo por id: 1
+[2024-05-15 22:28:20] [ INFO ] [PacienteDAOH2:61] Odontólogo obtenido con éxito
+[2024-05-15 22:28:20] [ INFO ] [PacienteDAOH2:68] Odontólogo encontrado correctamente: 
+[2024-05-15 22:28:20] [ INFO ] [PacienteDAOH2:84] iniciando la busqueda de todos los odontologos
+[2024-05-15 22:28:20] [ INFO ] [PacienteDAOH2:100] La lista de odontologos se obtuvo correctamente: [model.Odontologo@c03cf28, model.Odontologo@1329eff, model.Odontologo@6497b078]
+[2024-05-15 22:29:47] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-15 22:29:47] [ INFO ] [PacienteDAOH2:49] Iniciando la búsqueda de un odontólogo por id: 1
+[2024-05-15 22:29:47] [ INFO ] [PacienteDAOH2:61] Odontólogo obtenido con éxito
+[2024-05-15 22:29:47] [ INFO ] [PacienteDAOH2:68] Odontólogo encontrado correctamente: 
+[2024-05-15 22:29:47] [ INFO ] [PacienteDAOH2:84] iniciando la busqueda de todos los odontologos
+[2024-05-15 22:29:47] [ INFO ] [PacienteDAOH2:99] La lista de odontologos se obtuvo correctamente: [model.Odontologo@c03cf28, model.Odontologo@1329eff, model.Odontologo@6497b078]
+[2024-05-15 22:31:06] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-15 22:31:06] [ INFO ] [PacienteDAOH2:49] Iniciando la búsqueda de un odontólogo por id: 1
+[2024-05-15 22:31:06] [ INFO ] [PacienteDAOH2:61] Odontólogo obtenido con éxito
+[2024-05-15 22:31:06] [ INFO ] [PacienteDAOH2:68] Odontólogo encontrado correctamente: 
+[2024-05-15 22:31:06] [ INFO ] [PacienteDAOH2:84] iniciando la busqueda de todos los odontologos
+[2024-05-15 22:31:06] [ INFO ] [PacienteDAOH2:99] La lista de odontologos se obtuvo correctamente: [model.Odontologo@c03cf28, model.Odontologo@1329eff, model.Odontologo@6497b078]
+[2024-05-15 22:31:06] [ INFO ] [PacienteDAOH2:24] Iniciando guardado de odontologo
+[2024-05-15 22:31:06] [ WARN ] [PacienteDAOH2:40] Parameter "#1" is not set; SQL statement:
+INSERT INTO ODONTOLOGOS (ID, NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES(?, ?, ?, ?) [90012-224]
